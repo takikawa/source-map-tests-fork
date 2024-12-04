@@ -1,5 +1,7 @@
 # Source Map Tests
 
+Foobar baz quux
+
 This repository holds testing discussions and tests for the the Source Map debugging format. Specifically, we're looking to encourage discussion around:
 
 - Manual and automated testing strategies for Source Maps
